@@ -1,4 +1,4 @@
-### Hi there 👋, Caner Kuş
+### Hi there 👋, Caner
 #### Design and Development
 I'm Caner from Turkey, and I do content on Design and Development. I really enjoy learning languages and frameworks like C# and React,Node.js, as well as work in Blockchain Technologies.I also enjoy wireframing ui,ux, and design in general.
 
